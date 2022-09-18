@@ -7,6 +7,6 @@ In this challenge, we have been tasked with starting a fintech consulting firm. 
 
  ## Part 2: Retirement Planning
 
- Using portfolio data, the tools created model Monte Carlo Simulations over 5, 10 and 30 years and look at the distribution to calculation the expected portfolio return at 95% upper and lower confidence intervals using different initial investment amounts.
+ Using portfolio data, the tools created model Monte Carlo Simulations over 5, 10 and 30 years and look at the distribution to calculate the expected portfolio return at 95% upper and lower confidence intervals using different initial investment amounts.
 
  Using a simular tool, projections were then undertaken for early retirement options with Monte Carlo Simulations completed on an intial investment over periods of 5 and 10 years. 
